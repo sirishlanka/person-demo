@@ -1,0 +1,19 @@
+			===================
+			User Action Console
+			===================
+
+Choose your action:
+
+
+------------------------------------------
+1 to Add Person
+2 to Edit Person
+3 to Delete Person
+4 to Add Address to a Person
+5 to update address for a Person
+6 to delete Address of a person
+7 to list all persons with address info
+------------------------------------------
+
+
+Enter choice :
